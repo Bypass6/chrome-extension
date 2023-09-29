@@ -7,7 +7,7 @@
         "scripts": ["blockedsites.js", "script.js"]
     },
     "icons": {
-        "128"   : "logo.PNG"
+        "128"   : "logo.png"
     },
     "permissions": ["webRequest", "webRequestBlocking", "http://*/", "https://*/"]
 }
